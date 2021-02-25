@@ -1,10 +1,10 @@
 
 
-###![Alt Text](https://images.cooltext.com/5508544.png)
+![Alt Text](https://images.cooltext.com/5508544.png)
 
-#"i will not die, not yet my friend"
+###"i will not die, not yet my friend"
 
-Sobre mi
+##Sobre mi:
 
 - 
 - 
