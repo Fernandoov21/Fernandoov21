@@ -1,17 +1,17 @@
 
 
-### ![GitHub Logo](/images/logo.png)
+###![Alt Text](https://images.cooltext.com/5508544.png)
 
 #"i will not die, not yet my friend"
 
-Here are some ideas to get you started:
+Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+- 
+- 
+-
+- 
+- 
+-
+- 
 -->
