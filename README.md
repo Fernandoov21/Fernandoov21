@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<!--
-**Fernandoov21/Fernandoov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### ![GitHub Logo](/images/logo.png)
+
+#"i will not die, not yet my friend"
 
 Here are some ideas to get you started:
 
