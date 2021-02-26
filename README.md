@@ -10,8 +10,4 @@
 - Tecnico en soporte y manetnimiento de computo
 - En busca de conocimiento de redes, ciberseguridad y bases de datos
 - Manejo de SQLServer y MSSQL
-- 
-- 
--
-- 
--->
+
